@@ -50,4 +50,4 @@ The committed `profile.jpg` and `resume.pdf` are placeholders; swap them for you
 - **No Jekyll:** Plain static output; no theme configuration required.
 
 
-## www.tomlinl1.github.io/Portfolio/
+## tomlinl1.github.io/Portfolio/
