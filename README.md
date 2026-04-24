@@ -48,3 +48,6 @@ The committed `profile.jpg` and `resume.pdf` are placeholders; swap them for you
 
 - **Project site paths:** `vite.config.js` sets `base: './'` so assets resolve under `/<repo>/` without hardcoding the repo name.
 - **No Jekyll:** Plain static output; no theme configuration required.
+
+
+## www.tomlinl1.github.io/Portfolio/
