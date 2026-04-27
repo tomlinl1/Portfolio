@@ -130,7 +130,7 @@ body {
 
 @media (min-width: 768px) {
   .hero__grid {
-    grid-template-columns: 1fr auto;
+    grid-template-columns: 1fr 1fr;
     gap: var(--space-3xl);
   }
 }
