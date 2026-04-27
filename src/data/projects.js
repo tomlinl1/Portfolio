@@ -4,21 +4,9 @@
  */
 export const projects = [
   {
-    title: 'Capstone project',
-    description: 'Short summary of your capstone: problem, approach, and outcome.',
-    url: 'https://github.com/yourusername',
-    tags: ['Team', 'Demo'],
-  },
-  {
-    title: 'Sample web app',
-    description: 'A course or personal project that shows your stack and design sense.',
-    url: 'https://github.com/yourusername',
-    tags: ['JavaScript', 'API'],
-  },
-  {
-    title: 'Open source contribution',
-    description: 'Documentation, bugfix, or feature work you are proud of.',
-    url: 'https://github.com/yourusername',
-    tags: ['OSS'],
-  },
+    title: 'Spell Arena: Capstone project',
+    description: 'A multiplayer online battle arena game that uses gesture recognition to cast spells. I led development of UI and UX using UI Toolkit and software design principles.',
+    url: 'https://github.com/tomlinl1/ASE485-WizardGame',
+    tags: ['Team', 'Demo', 'Unity', 'C#'],
+  }
 ];
